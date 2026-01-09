@@ -41,3 +41,11 @@ Set `MD2BROWSER_CSS` to use a custom CSS path:
 ```bash
 export MD2BROWSER_CSS="/path/to/custom.css"
 ```
+
+## Acknowledgments
+
+Inspired by [this Reddit comment](https://www.reddit.com/r/linux/comments/1023abr/comment/j2sv8a8/).
+
+## License
+
+MIT License - see [LICENSE](LICENSE) for details.
