@@ -12,6 +12,7 @@ Features:
 ## Dependencies
 
 - [pandoc](https://pandoc.org/installing.html)
+- [rumdl](https://github.com/rvben/rumdl) - Markdown linter/formatter
 - `xdg-open` (Linux) or modify the script for your OS
 
 ## Installation
